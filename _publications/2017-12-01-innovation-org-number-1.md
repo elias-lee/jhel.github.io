@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-12-01-paper-1
 excerpt: 'This study is defines "creativity innovation organizations" and explore the main attributes of creative innovation organizations'
 date: 2017-12-01
-venue: 'Journal 1'
+venue: 'STEPI Policy Research'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
